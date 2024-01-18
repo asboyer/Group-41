@@ -33,7 +33,7 @@ You don't even have to add metadata to your pages - the layout will be set as `d
             - `/gh-pages-no-jekyll/assets/css/style.css?v=fb1...">`
         - Here is a [sample](https://michaelcurrin.github.io/gh-pages-no-jekyll/assets/css/style.css)
     - Footer
-        - _This site is open source. Improve this page._
+        Property of Andrew Boyer Inc.
 - No Jekyll theme or Liquid syntax is used. Where Liquid is actually used, it is code snippets and the `raw` tag is used to stop from rendering and giving an error on values no available).
 - The Jekyll build is still run on Github Pages to convert markdown to HTML (a `.nojekyll` file would prevent this).
 - This project is **not** meant to be run locally (if there is a way, this is not covered here).
