@@ -16,7 +16,7 @@ permalink: /
 
 Some info on how to make a site like this and how it works.
 
-- [Part 1: Setting up](tutorial/1.md)
+- [Part 1: Setting up](tutorial/1.md) Marko
 - [Part 2: The layout editor](tutorial/2.md)
 - [Part 3: Adding color](tutorial/3.md)
 - [Part 4: Adding views and constraints](tutorial/4.md)
