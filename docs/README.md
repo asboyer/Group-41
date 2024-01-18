@@ -1,5 +1,5 @@
 ---
-[Group 41 Android Studio Tutorial](/)
+permalink: /
 ---
 # **Documentation**
 > How this project works and how to maintain your own
