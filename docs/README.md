@@ -1,7 +1,6 @@
 ---
 permalink: /
 ---
-> Andrew Boyer, Marko Gjurevski, Joshua Thomas - CS2340
 # **Android Studio Tutorial**
 > Get familiar with Android Studio by making a simple Android app
 
@@ -28,3 +27,5 @@ Some info on how to make a site like this and how it works.
 > Here is the Android app our group made and how to use it
 
 ## Documentation
+
+> Andrew Boyer, Marko Gjurevski, Joshua Thomas - CS2340
