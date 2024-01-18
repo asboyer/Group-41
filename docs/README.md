@@ -6,7 +6,7 @@ permalink: /
 
 <div align="center">
     <a href="https://developer.android.com/studio">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/2560px-Android_Studio_Trademark.svg.png" alt="Android Studio">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/2560px-Android_Studio_Trademark.svg.png" alt="Android Studio" width="200">
     </a>
 </div>
 
