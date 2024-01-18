@@ -1,6 +1,7 @@
 ---
 permalink: /
 ---
+> Andrew Boyer, Marko Gjurevski, Joshua Thomas - CS2340
 # **Android Studio Tutorial**
 > Get familiar with Android Studio by making a simple Android app
 
@@ -9,17 +10,18 @@ permalink: /
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/2560px-Android_Studio_Trademark.svg.png" alt="Android Studio" width="200">
     </a>
 </div>
-> By: Andrew Boyer, Marko Gjurevski, Joshua Thomas - CS2340
 
 
 ## Menu
 
 Some info on how to make a site like this and how it works.
 
-- [About](about.md)
-- [Features](features.md)
-- [Limitations](limitations.md)
-- [What about a Wiki?](wiki.md)
+- [Part 1: Setting up](tutorial/1.md)
+- [Part 2: The layout editor](tutorial/2.md)
+- [Part 3: Adding color](tutorial/3.md)
+- [Part 4: Adding views and constraints](tutorial/4.md)
+- [Part 5: Update appearences](tutorial/5.md)
+- [Part 6: Make your app interactive!](tutorial/6.md)
 
 
 # **Android App**
