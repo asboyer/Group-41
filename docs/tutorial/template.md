@@ -3,16 +3,18 @@
 ## Step 0.1
 > Quick summary of what goes on
 
-0.1.1 ordered lists
-0.1.2 odered lists 
+1. 0.1.1 ordered lists
+2. 0.1.2 odered lists 
 `this is some inline code`
 ## Step 0.2
 > Quick summary of what goes on
 
 blah blah blah blah
 blah blah blah blah
+
 blah blah blah blah
 blah blah blah blah
+
 blah blah blah blah
 
 ```java
