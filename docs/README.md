@@ -1,6 +1,7 @@
 ---
 permalink: /
 ---
+
 <div style="margin-bottom: 20px;">
     <style>
         #navigation ul {
