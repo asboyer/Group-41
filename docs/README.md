@@ -23,13 +23,13 @@ permalink: /
     <nav id="navigation">
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="tutorial/1.md">Part 1: Setting up</a></li>
-            <li><a href="tutorial/2.md">Part 2: The layout editor</a></li>
-            <li><a href="tutorial/3.md">Part 3: Adding color</a></li>
-            <li><a href="tutorial/4.md">Part 4: Adding views and constraints</a></li>
-            <li><a href="tutorial/5.md">Part 5: Update appearances</a></li>
-            <li><a href="tutorial/6.md">Part 6: Make your app interactive!</a></li>
-            <li><a href="#android-app">Android App</a></li>
+            <li><a href="tutorial/1.md">Part 1</a></li>
+            <li><a href="tutorial/2.md">Part 2</a></li>
+            <li><a href="tutorial/3.md">Part 3</a></li>
+            <li><a href="tutorial/4.md">Part 4:</a></li>
+            <li><a href="tutorial/5.md">Part 5</a></li>
+            <li><a href="tutorial/6.md">Part 6</a></li>
+            <li><a href="#android-app">App</a></li>
         </ul>
     </nav>
 </div>
