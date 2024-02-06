@@ -22,14 +22,14 @@ permalink: /
     </style>
     <nav id="navigation">
         <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="tutorial/1.md">Part 1</a></li>
-            <li><a href="tutorial/2.md">Part 2</a></li>
-            <li><a href="tutorial/3.md">Part 3</a></li>
-            <li><a href="tutorial/4.md">Part 4:</a></li>
-            <li><a href="tutorial/5.md">Part 5</a></li>
-            <li><a href="tutorial/6.md">Part 6</a></li>
-            <li><a href="#android-app">App</a></li>
+            <li><a href="Group-41/">Home</a></li>
+            <li><a href="docs/tutorial/1">Part 1</a></li>
+            <li><a href="docs/tutorial/2">Part 2</a></li>
+            <li><a href="docs/tutorial/3">Part 3</a></li>
+            <li><a href="docs/tutorial/4">Part 4:</a></li>
+            <li><a href="docs/tutorial/5">Part 5</a></li>
+            <li><a href="docs/tutorial/6">Part 6</a></li>
+            <li><a href="app">App</a></li>
         </ul>
     </nav>
 </div>
