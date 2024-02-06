@@ -1,6 +1,38 @@
 ---
 permalink: /
 ---
+<div style="margin-bottom: 20px;">
+    <style>
+        #navigation ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: row;
+            justify-content: center; /* Center the navigation */
+        }
+        #navigation ul li {
+            margin: 0 10px; /* Add some space between the links */
+        }
+        #navigation ul li a {
+            text-decoration: none; /* Optional: removes underline from links */
+            color: #007bff; /* Optional: sets link color */
+        }
+    </style>
+    <nav id="navigation">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="tutorial/1.md">Part 1: Setting up</a></li>
+            <li><a href="tutorial/2.md">Part 2: The layout editor</a></li>
+            <li><a href="tutorial/3.md">Part 3: Adding color</a></li>
+            <li><a href="tutorial/4.md">Part 4: Adding views and constraints</a></li>
+            <li><a href="tutorial/5.md">Part 5: Update appearances</a></li>
+            <li><a href="tutorial/6.md">Part 6: Make your app interactive!</a></li>
+            <li><a href="#android-app">Android App</a></li>
+        </ul>
+    </nav>
+</div>
+
 # **Android Studio Tutorial**
 > Get familiar with Android Studio by making a simple Android app
 
