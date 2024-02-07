@@ -34,7 +34,7 @@ permalink: /app
     </nav>
 </div>
 
-# [!Demo Video!](hhttps://youtu.be/lJyRYzy4yKE)
+# [!Demo Video!](https://youtu.be/X4y0fwzvXfQ)
 
 # App Description and Guide
 
