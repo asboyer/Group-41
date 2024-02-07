@@ -22,7 +22,7 @@ permalink: /
     </style>
     <nav id="navigation">
         <ul>
-            <li><a href="Group-41/">Home</a></li>
+            <li><a href="/Group-41">Home</a></li>
             <li><a href="docs/tutorial/1">Part 1</a></li>
             <li><a href="docs/tutorial/2">Part 2</a></li>
             <li><a href="docs/tutorial/3">Part 3</a></li>
@@ -48,9 +48,10 @@ permalink: /
         * Demo video
         * Project website
         * Tutorial parts 1 and 6
+        * Full QA
 
 ## [Marko Gjurevski](https://github.com/m-gjurevski-nano-ic)
-    - Role: QA / developer
+    - Role: Client communication / developer
     - About: 2nd year Computer Science @ gatech
     - Contributions:
         * Classes page core functionality

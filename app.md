@@ -22,7 +22,7 @@ permalink: /app
     </style>
     <nav id="navigation">
         <ul>
-            <li><a href="Group-41/">Home</a></li>
+            <li><a href="/Group-41/">Home</a></li>
             <li><a href="docs/tutorial/1">Part 1</a></li>
             <li><a href="docs/tutorial/2">Part 2</a></li>
             <li><a href="docs/tutorial/3">Part 3</a></li>
