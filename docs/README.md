@@ -34,6 +34,44 @@ permalink: /
     </nav>
 </div>
 
+# **Meet our team**
+## [Andrew Boyer](https://www.asboyer.com)
+    - Role: Project lead / UI/UX design / developer
+    - About: 2nd year Computer Science @ gatech
+    - Contributions:
+        * Main page logic and design
+        * To-do list page logic and design
+        * Assignments page features
+            - days of week
+            - start and end time
+        * Overall user interface
+        * Demo video
+        * Project website
+        * Tutorial parts 1 and 6
+
+## [Marko Gjurevski](https://github.com/m-gjurevski-nano-ic)
+    - Role: QA / developer
+    - About: 2nd year Computer Science @ gatech
+    - Contributions:
+        * Classes page core functionality
+        * The back button on each page
+        * Project description
+        * Tutorial parts 2 and 5
+
+## [Joshua Thomas](https://github.com/jkthom)
+    - Role: Architect / developer
+    - About: 2nd year Computer Science @ gatech
+    - Contributions:
+        * The assignments page logic and design
+        * The exams page logic and design
+        * The item status on:
+            - Assignments
+            - Exams
+            - To-Do
+        * Tutorial parts 3 and 4
+
+<hr>
+
 # **Android Studio Tutorial**
 > Get familiar with Android Studio by making a simple Android app
 
@@ -55,10 +93,9 @@ Some info on how to make a site like this and how it works.
 - [Part 5: Update appearences](tutorial/5.md)
 - [Part 6: Make your app interactive!](tutorial/6.md)
 
+<hr>
 
 # **Android App**
-> Here is the Android app our group made and how to use it
-
-## Documentation
-
-> Andrew Boyer, Marko Gjurevski, Joshua Thomas - CS2340
+- [App Description](app)
+- [App Documentation](docs/app)
+- [App Demo Video]()
