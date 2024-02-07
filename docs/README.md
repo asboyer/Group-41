@@ -99,4 +99,4 @@ Some info on how to make a site like this and how it works.
 # **Android App**
 - [App Description](app)
 - [App Documentation](docs/app)
-- [App Demo Video](https://youtu.be/oVvOjOJMa_Y)
+- [App Demo Video](https://youtu.be/lJyRYzy4yKE)
